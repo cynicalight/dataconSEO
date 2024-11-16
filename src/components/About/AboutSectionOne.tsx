@@ -24,8 +24,8 @@ const AboutSectionOne = () => {
           <div className="-mx-4 flex flex-wrap items-center">
             <div className="w-full px-4 lg:w-1/2">
               <SectionTitle
-                title="Crafted for Startup, SaaS and Business Sites."
-                paragraph="The main ‘thrust’ is to focus on educating attendees on how to best protect highly vulnerable business applications with interactive panel discussions and roundtables."
+                title="源自顶尖研究，服务全球需求"
+                paragraph="哋它亢科技有限公司承载着哋它亢研究中心的科研基因，将创新的实验室技术推向广阔的商业市场。通过与国内外行业领军企业和学术机构的深度合作，我们打造了一个科技生态闭环：从基础研究到技术开发，再到市场落地。无论是人工智能驱动的精准医疗，还是量子计算加速的金融分析，哋它亢的解决方案已渗透到多个关键领域，影响深远。"
                 mb="44px"
               />
 
