@@ -13,27 +13,26 @@ const Footer = () => {
                 <Link href="/" className="mb-8 inline-block">
                   <Image
                     src="/images/logo/logo-2.svg"
-                    alt="logo"
+                    alt="哋它亢科技有限公司"
                     className="w-full dark:hidden"
                     width={140}
                     height={30}
                   />
                   <Image
                     src="/images/logo/logo.svg"
-                    alt="logo"
+                    alt="哋它亢科技有限公司"
                     className="hidden w-full dark:block"
                     width={140}
                     height={30}
                   />
                 </Link>
                 <p className="mb-9 text-base leading-relaxed text-body-color dark:text-body-color-dark">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                  Integer lobortis.
+                  哋它亢科技有限公司致力于通过创新技术推动社会进步。我们专注于人工智能、无人驾驶等领域的前沿研究。
                 </p>
                 <div className="flex items-center">
                   <a
-                    href="/"
-                    aria-label="social-link"
+                    href="https://www.facebook.com"
+                    aria-label="Facebook"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="mr-6 text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
@@ -52,8 +51,8 @@ const Footer = () => {
                     </svg>
                   </a>
                   <a
-                    href="/"
-                    aria-label="social-link"
+                    href="https://www.twitter.com"
+                    aria-label="Twitter"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="mr-6 text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
@@ -74,8 +73,8 @@ const Footer = () => {
                     </svg>
                   </a>
                   <a
-                    href="/"
-                    aria-label="social-link"
+                    href="https://www.youtube.com"
+                    aria-label="YouTube"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="mr-6 text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
@@ -90,8 +89,8 @@ const Footer = () => {
                     </svg>
                   </a>
                   <a
-                    href="/"
-                    aria-label="social-link"
+                    href="https://www.linkedin.com"
+                    aria-label="LinkedIn"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
@@ -112,7 +111,7 @@ const Footer = () => {
             <div className="w-full px-4 sm:w-1/2 md:w-1/2 lg:w-2/12 xl:w-2/12">
               <div className="mb-12 lg:mb-16">
                 <h2 className="mb-10 text-xl font-bold text-black dark:text-white">
-                  Useful Links
+                  哋它亢链接
                 </h2>
                 <ul>
                   <li>
@@ -120,7 +119,7 @@ const Footer = () => {
                       href="/blog"
                       className="mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
                     >
-                      Blog
+                      哋它亢博客
                     </Link>
                   </li>
                   <li>
@@ -128,7 +127,7 @@ const Footer = () => {
                       href="/"
                       className="mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
                     >
-                      Pricing
+                      商业合作
                     </Link>
                   </li>
                   <li>
@@ -136,7 +135,7 @@ const Footer = () => {
                       href="/about"
                       className="mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:text-body-color-dark dark:hover:text-primary"
                     >
-                      About
+                      关于哋它亢
                     </Link>
                   </li>
                 </ul>
