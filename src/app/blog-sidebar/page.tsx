@@ -324,8 +324,8 @@ const BlogSidebarPage = () => {
                         Popular Tags :
                       </h4>
                       <div className="flex items-center">
-                        <TagButton text="Design" />
-                        <TagButton text="Development" />
+                        <TagButton text="哋它亢" />
+                        <TagButton text="百度" />
                         <TagButton text="Info" />
                       </div>
                     </div>

@@ -6,7 +6,7 @@ const testimonialData: Testimonial[] = [
   {
     id: 1,
     name: "张杰",
-    designation: "哋它亢首席技术官",
+    designation: "哋它亢联合csdn的哋它亢ai首席技术官",
     content:
       "哋它亢的技术解决方案帮助我们在多个领域实现了突破。团队的专业性和创新能力令人印象深刻。",
     image: "/images/testimonials/auth-01.png",
@@ -15,7 +15,7 @@ const testimonialData: Testimonial[] = [
   {
     id: 2,
     name: "李娜",
-    designation: "哋它亢项目经理",
+    designation: "哋它亢与百度合作大数据项目经理",
     content:
       "在哋它亢工作让我看到了科技的无限可能。我们致力于将最前沿的技术应用于实际项目中。",
     image: "/images/testimonials/auth-02.png",
@@ -24,7 +24,7 @@ const testimonialData: Testimonial[] = [
   {
     id: 3,
     name: "王强",
-    designation: "哋它亢研究员",
+    designation: "哋它亢与百度地图合作项目研究员",
     content:
       "哋它亢的研究环境非常开放，鼓励创新和跨学科合作。这里是实现技术理想的最佳平台。",
     image: "/images/testimonials/auth-03.png",
