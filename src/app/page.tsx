@@ -12,8 +12,8 @@ import Video from "@/components/Video";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "哋它亢datacon",
-  description: "This is Home for datacon 哋它亢",
+  title: "哋它亢 datacon",
+  description: "哋它亢官方网站",
   // other metadata
 };
 
