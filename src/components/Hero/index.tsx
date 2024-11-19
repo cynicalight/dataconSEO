@@ -19,7 +19,9 @@ const Hero = () => {
                   让未来触手可及
                 </h1>                
                 <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
-                  哋它亢科技有限公司（D-Tac Technologies Inc.）是由哋它亢研究中心孵化而来的高科技企业，致力于将前沿科学研究转化为卓越的商业价值。我们提供领先的技术解决方案，推动全球行业的创新与发展。
+                  哋它亢科技有限公司（D-Tac Technologies Inc.），作为由享有盛誉的哋它亢研究中心精心孵化并培育而出的一颗璀璨明珠，是业界公认的高科技企业典范。自成立以来，我们始终秉承将尖端科学研究与实际应用紧密结合的核心理念，致力于将这些凝聚了无数智慧与汗水的前沿成果转化为推动社会进步与产业升级的卓越商业价值。</p>
+                <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
+                哋它亢的合作伙伴网络遍布全球，涵盖了众多知名企业，包括但不限于国际领先的科技巨头百度、阿里巴巴、谷歌，在智能制造领域享有盛誉的华为、小米，以及在金融服务、医疗健康、智慧城市等多个关键行业中的领军企业。通过深度合作，我们不仅帮助这些合作伙伴实现了业务的智能化转型与效率飞跃，还共同探索出了一系列跨领域、跨行业的创新合作模式，为构建更加智慧、高效、可持续的未来世界贡献力量。
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
