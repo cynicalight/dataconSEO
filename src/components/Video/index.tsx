@@ -26,7 +26,7 @@ const Video = () => {
               data-wow-delay=".15s"
             >
               <div className="relative aspect-[77/40] items-center justify-center">
-                <Image src="/images/video/video.jpg" alt="哋它亢视频" fill />
+                <Image src="/images/video/文心一言AI作图_20241120142254.png" alt="哋它亢视频" fill />
                 <div className="absolute right-0 top-0 flex h-full w-full items-center justify-center">
                   <button
                     aria-label="视频播放按钮"
