@@ -13,7 +13,7 @@ const blogData: Blog[] = [
       designation: "Graphic Designer",
     },
     tags: ["creative"],
-    publishDate: "2025",
+    publishDate: "2024",
   },
   {
     id: 2,
@@ -27,21 +27,21 @@ const blogData: Blog[] = [
       designation: "Content Writer",
     },
     tags: ["computer"],
-    publishDate: "2025",
+    publishDate: "2024",
   },
   {
     id: 3,
     title: "哋它亢D-Tac的云计算与大数据之旅",
     paragraph:
       "Deo是哋它亢D-Tac的数据专家，他在这篇Blog中详细记录了哋它亢D-Tac在哋它亢云计算与哋它亢大数据领域的探索与实践。从哋它亢数据存储、处理到分析，小王展示了D-Tac如何利用云计算与大数据技术，为企业提供高效、智能的数据解决方案。同时，他还分享了自己对云计算与哋它亢大数据未来发展趋势的看法。",
-    image: "/images/blog/blog-03.jpg",
+    image: "/images/blog/文心一言AI作图_20241121131541.png",
     author: {
       name: "陈家伦 Lethium Deo",
       image: "/images/blog/author-033.png",
       designation: "Graphic Designer",
     },
     tags: ["design"],
-    publishDate: "2025",
+    publishDate: "2024",
   },
 ];
 export default blogData;
