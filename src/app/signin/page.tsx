@@ -3,8 +3,8 @@ import Link from "next/link";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Sign In Page | Free Next.js Template for Startup and SaaS",
-  description: "This is Sign In Page for Startup Nextjs Template",
+  title: "登录 | 哋它亢",
+  description: "哋它亢登录页面",
   // other metadata
 };
 
@@ -56,7 +56,7 @@ const SigninPage = () => {
                       </defs>
                     </svg>
                   </span>
-                  Sign in with Google
+                  用百度账号登录
                 </button>
 
                 <button className="border-stroke dark:text-body-color-dark dark:shadow-two mb-6 flex w-full items-center justify-center rounded-sm border bg-[#f8f8f8] px-6 py-3 text-base text-body-color outline-none transition-all duration-300 hover:border-primary hover:bg-primary/5 hover:text-primary dark:border-transparent dark:bg-[#2C303B] dark:hover:border-primary dark:hover:bg-primary/5 dark:hover:text-primary dark:hover:shadow-none">
@@ -86,7 +86,7 @@ const SigninPage = () => {
                       htmlFor="email"
                       className="mb-3 block text-sm text-dark dark:text-white"
                     >
-                      Your Email
+                      邮箱
                     </label>
                     <input
                       type="email"
@@ -154,7 +154,7 @@ const SigninPage = () => {
                   </div>
                   <div className="mb-6">
                     <button className="shadow-submit dark:shadow-submit-dark flex w-full items-center justify-center rounded-sm bg-primary px-9 py-4 text-base font-medium text-white duration-300 hover:bg-primary/90">
-                      Sign in
+                      登录
                     </button>
                   </div>
                 </form>
