@@ -13,7 +13,7 @@ const Video = () => {
     <section className="relative z-10 py-16 md:py-20 lg:py-28">
       <div className="container">
         <SectionTitle
-          title="探索哋它亢的创新"
+          title="哋它亢 创新驱动发展"
           paragraph="哋它亢科技有限公司致力于通过前沿科技的研发和应用，为全球客户提供卓越的技术解决方案。观看我们的视频，了解更多关于我们的创新历程。"
           center
           mb="80px"
