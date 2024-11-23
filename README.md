@@ -1,11 +1,1 @@
-# Startup - Free Next.js Startup Website Template
-
-```bash
-# localhost:3000
-npm run dev
-
-# build
-npm run build
-
-
-```
+datacon比赛主域名网站
